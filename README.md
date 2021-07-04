@@ -15,3 +15,12 @@ The website is hosted at contestcalendar.000webhostapp.com . But it still requir
 Right now the site is working for test users only and I am working to make the website public.
 
 Here is the flow website follows :
+
+Home Page
+![Homepage](/workflow/home.png)
+
+Asking For Permission
+![Homepage](/workflow/permission.png)
+
+Main Screen to select platform
+![Homepage](/workflow/select.png)
