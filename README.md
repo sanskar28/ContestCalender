@@ -1,4 +1,4 @@
-Contest Calender | No more missing competitive programming Contests
+**Contest Calender | No more missing competitive programming Contests**
 
 A platform where you can add Competitive Contests to your Google Calender in one click.
 It Requires Permission to edit and write to your Google Calendar and adds the competitions of your selected platforms to your calendar.
