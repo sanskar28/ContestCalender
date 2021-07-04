@@ -1,4 +1,4 @@
-###### Contest Calender | No more missing competitive programming Contests ######
+## Contest Calender | No more missing competitive programming Contests 
 
 A platform where you can add Competitive Contests to your Google Calender in one click.
 It Requires Permission to edit and write to your Google Calendar and adds the competitions of your selected platforms to your calendar.
@@ -16,11 +16,11 @@ Right now the site is working for test users only,work is in progress to make th
 
 Here is the flow website follows :
 
-Home Page
+#### Home Page
 ![Homepage](/workflow/home.png)
 
-Asking For Permission
+#### Asking For Permission
 ![Permissionpage](/workflow/permission.png)
 
-Main Screen to select platform
+#### Main Screen to select platform
 ![Selectpage](/workflow/select1.png)
