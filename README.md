@@ -12,7 +12,7 @@ Platforms Currently supported are
 	* HackerEarth
 
 The website is hosted at contestcalendar.000webhostapp.com . But it still requires permission from google to acccess googleCalendarAPI and the permission is still pending.
-Right now the site is working for test users only and I am working to make the website public.
+Right now the site is working for test users only,work is in progress to make the website public.
 
 Here is the flow website follows :
 
@@ -20,7 +20,7 @@ Home Page
 ![Homepage](/workflow/home.png)
 
 Asking For Permission
-![Homepage](/workflow/permission.png)
+![Permissionpage](/workflow/permission.png)
 
 Main Screen to select platform
-![Homepage](/workflow/select1.png)
+![Selectpage](/workflow/select1.png)
